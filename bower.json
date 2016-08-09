@@ -1,0 +1,23 @@
+{
+  "name": "linkrlist",
+  "description": "Link aggregator relating to your projects, specifically for collaborating.",
+  "main": "server.js",
+  "authors": [
+    "Danny Orellana & Mary Garcia"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "projects"
+  ],
+  "homepage": "https://github.com/dannywo/linkrlist",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
